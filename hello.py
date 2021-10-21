@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def index():
-    return "<h1>Hello Azure!</h1>"
+    return "<h1>Hello Guys of Azure!</h1>"
